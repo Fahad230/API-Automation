@@ -1,0 +1,4 @@
+allure-pytest>=2.9.45
+pytest>=7.0.0
+requests>=2.27.1
+pytest-bdd>=5.0.0
